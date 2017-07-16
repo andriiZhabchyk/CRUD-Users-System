@@ -1,0 +1,20 @@
+{
+  "name": "CRUD_System",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://And777rey@bitbucket.org/And777rey/and777rey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/And777rey/and777rey#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

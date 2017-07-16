@@ -1,0 +1,59 @@
+#usersList {
+    width: 600px;
+}
+
+.table {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.row {
+    margin-top: 50px;
+}
+
+.btn {
+    margin: 20px 20px;
+}
+
+tr, td {
+    height: 50px;
+    padding: 20px 20px;
+    border: solid #e8e8e8 1px;
+    border-radius: 5px;
+}
+
+th {
+    text-align: center;
+}
+
+label {
+    text-transform: uppercase;
+}
+
+.form-horizontal {
+    display: none;
+    padding: 50px 50px;
+    background: #e8e8e8;
+    border-radius: 10px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.formLabel {
+    padding-top: 20px;
+    text-align: center;
+}
+
+thead {
+    background: #e8e8e8;
+}
+
+#formCreateUser {
+    display: none;
+}
+
+.error {
+    color: #eb0000;
+}
+
+
