@@ -8,13 +8,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://And777rey@bitbucket.org/And777rey/and777rey.git"
+    "url": "https://github.com/andriiZhabchyk/CRUD-Users-System"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/And777rey/and777rey#readme",
+  "homepage": "",
   "dependencies": {
     "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-csso": "^3.0.0",
+    "gulp-jslint": "^1.0.10",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify": "^1.0.0",
+    "gulp-watch": "^4.3.11"
   }
 }

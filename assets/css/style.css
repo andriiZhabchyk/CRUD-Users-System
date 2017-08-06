@@ -5,21 +5,18 @@
 .table {
     width: 800px;
     margin: 0 auto;
-}
-
-.row {
-    margin-top: 50px;
+    box-shadow: -1px 1px 3px rgba(0, 0, 0, .3);
 }
 
 .btn {
     margin: 20px 20px;
+    box-shadow: -.5px 1px 3px rgba(0, 0, 0, .3);
 }
 
 tr, td {
     height: 50px;
     padding: 20px 20px;
     border: solid #e8e8e8 1px;
-    border-radius: 5px;
 }
 
 th {
@@ -34,9 +31,9 @@ label {
     display: none;
     padding: 50px 50px;
     background: #e8e8e8;
-    border-radius: 10px;
     width: 800px;
     margin: 0 auto;
+    box-shadow: -1px 1px 3px rgba(0, 0, 0, .3);
 }
 
 .formLabel {
@@ -56,4 +53,11 @@ thead {
     color: #eb0000;
 }
 
+#userShowContainer, #formView, #formEdit, #formCreateUser {
+    margin-top: 50px;
+}
+
+#formEdit, #formCreateUser {
+    margin-bottom: 50px;
+}
 
